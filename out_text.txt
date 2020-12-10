@@ -1,0 +1,17 @@
+Emerging AI technologies not only pose threats but also create opportunities of
+producing a wide variety of data types from human interactions with these
+platforms. The broad availability of data has led to increasing interest in
+methods for exploring useful knowledge relevant to education. In other words,
+data-driven decision-making through the collection and analysis of educational
+data is increasingly used to inform policy and practice, and this trend is only
+likely to grow in the future.
+
+The literature on education data analytics has many materials on the assessment
+and prediction of students’ academic performance, as measured by standardized
+tests. However, research on education data analytics should go beyond
+explaining student success with the typical three Rs (reading, writing and
+arithmetic) of literacy in the current economy. Furthermore, the availability of
+data alone does not ensure successful data-driven decision-making.
+Consequently, there is a need for further research on the use of an appropriate
+data-analytic thinking framework for education.
+
