@@ -10,3 +10,6 @@ A tool for Automatic Question Generation tool in python using Natural Language P
 
 ## Class Diagram
 ![class diagram](/Images&Diagram/Class-Diagram.png)
+
+## Data
+Download the data folder from [here](https://mega.nz/folder/NKZD2BrD#vXemKSxCi7DBB2OOqBfF8Q)
